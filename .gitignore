@@ -3,6 +3,7 @@
 /package
 /test
 *.elf
+*DS_Store
 *.pyc
 .project
 .pydevproject
