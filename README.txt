@@ -4,7 +4,9 @@ and let me know if your hash rate improves or you have any issues with this vers
 So all the GUIMiners on Mac can get stratum support without cmd line installation of 
 the dependencies.
 
-if it helps you out feel free to trow a bit my way ;)
+Like the last one, you'll need to force quit when you're done.
+
+if it helps you out feel free to throw a bit my way ;)
 
 1C5wYhPwiu4N9HLY2VdjP4vK12dufFNNtn
 
